@@ -1,6 +1,0 @@
-streamlit
-PyPDF2
-langchain
-langchain_community
-faiss-cpu  # faiss-gpu if you're using GPU locally
-torch
